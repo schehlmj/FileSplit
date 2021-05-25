@@ -1,5 +1,5 @@
 # FileSplit
-Splits CSV or other text files by number of lines
+Splits CSV and other text files by number of lines
 
 * Drag-and-drop UI interface
 * Allows copying header lines to each created file
