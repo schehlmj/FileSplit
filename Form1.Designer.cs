@@ -103,6 +103,11 @@ namespace FileSplit
             this.numericHeaderLines.Name = "numericHeaderLines";
             this.numericHeaderLines.Size = new System.Drawing.Size(55, 23);
             this.numericHeaderLines.TabIndex = 5;
+            this.numericHeaderLines.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             // 
             // numericMaxLines
             // 
